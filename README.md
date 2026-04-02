@@ -25,6 +25,10 @@ Example: https://finance-dashboard.vercel.app
 ## 📸 Screenshots (Optional)
 
 ![Screenshot 1](public/screen/img1.png)
+![Screenshot 1](public/screen/img2.png)
+![Screenshot 1](public/screen/img2.png)
+![Screenshot 1](public/screen/img2.png)
+
 
 ---
 
