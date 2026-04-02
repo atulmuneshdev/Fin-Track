@@ -1,6 +1,7 @@
 # 💰 Finance Dashboard UI
 
 ## 📌 Project Overview
+This project was completed as part of a frontend evaluation assignment
 
 The **Finance Dashboard UI** is a frontend project designed to showcase skills in UI development, component structuring, and state management.
 
@@ -98,38 +99,7 @@ Example: https://finance-dashboard.vercel.app
 
 ---
 
-## 📁 Project Structure
 
-```id="code1"
-finance-dashboard/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── components/
-│   │   ├── Dashboard/
-│   │   ├── Transactions/
-│   │   ├── Insights/
-│   │   └── Common/
-│   │
-│   ├── context/
-│   │   └── AppContext.jsx
-│   │
-│   ├── data/
-│   │   └── mockData.js
-│   │
-│   ├── pages/
-│   │   └── Home.jsx
-│   │
-│   ├── styles/
-│   │   └── global.css
-│   │
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── package.json
-└── README.md
 ```
 
 ---
