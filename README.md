@@ -24,7 +24,7 @@ Example: https://finance-dashboard.vercel.app
 
 ## 📸 Screenshots (Optional)
 
-*Add screenshots of your dashboard here*
+![Screenshot 1](public/screenshots/Screenshot%202026-03-15%20154721.png)
 
 ---
 
