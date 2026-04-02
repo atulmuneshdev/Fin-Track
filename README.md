@@ -27,7 +27,7 @@ Example: https://finance-dashboard.vercel.app
 ![Screenshot 1](public/screen/img1.png)
 ![Screenshot 1](public/screen/img2.png)
 ![Screenshot 1](public/screen/img3.png)
-![Screenshot 1](public/screen/img2.png)
+![Screenshot 1](public/screen/img4.png)
 
 
 ---
