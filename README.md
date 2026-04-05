@@ -19,8 +19,7 @@ This application allows users to:
 ## 🚀 Live Demo (Optional)
 
 👉 Add your deployed link here
-Example: https://finance-dashboard.vercel.app
-
+Example: https://fin-track-three-plum.vercel.app/
 ---
 
 ## 📸 Screenshots (Optional)
